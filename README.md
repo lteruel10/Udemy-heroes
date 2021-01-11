@@ -1,7 +1,11 @@
 # Objetivos de la repositorio
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
-#prueba de fork actualizado##########################################################
+
+## probando actualizar FORK
+
+# OTRA PRUEBA LA PRIMERA FUE FALLIDA NO ENTIENDO QUE ESTA PASANDO
+
 
 ## Notas
 Pueden hacer lo que quieran...
